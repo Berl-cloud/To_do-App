@@ -1,0 +1,48 @@
+body{
+    background-color: #9185fa;
+}
+
+.container {
+    text-align: center;
+    margin: auto 400px;
+    padding: 20px 10px;
+}
+.headline {
+    margin-bottom: 70px;
+    color: white;
+}
+
+.items{
+    background-color: white;
+    margin: 50px;
+    padding: 10px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+ul li {
+    list-style-image: url();
+    text-align: justify;
+    font-family: Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande;
+    color: #3f3697;
+    padding: 15px;
+    text-decoration: line-through;
+}
+
+.btn button {
+    display: inline;
+    width: 100px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+    font-size: medium;
+    color: white;
+    background-color: #3f3697
+    
+}
+.btn a{
+    text-decoration: none;
+}
+.btn button:hover{
+    background-color: #8cc6f0;
+}
